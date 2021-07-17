@@ -1,6 +1,6 @@
 - I'm Ani 
 - I code sometimes
-- I like ML and Image processing. Math is pretty epic too.
+- I like ML and Image processing. Math is pretty epic too. I also like to attend hackathons.
 - I'm currently working on a research project that has to do with GANs and denoising images
 - 📫 If you want to contact me, reach me @ themartian117@gmail.com
 
