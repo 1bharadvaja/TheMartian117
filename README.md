@@ -1,4 +1,4 @@
-- Applied Math + CS at Berkeley
+- Applied Math at Berkeley
 - Contact me at anibharadwaj@berkeley.edu
 
 
